@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T12:39:29.580Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="755nMsywdJs7kKc5Svet" version="13.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-06-10T12:40:49.616Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="2FWgB2Ge51p1JPAAVU3L" version="13.2.1" type="github" pages="10">
   <diagram id="QuyX2whkP-qja3CpLCFp" name="Prod - Page-1">
     <mxGraphModel dx="828" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1065,9 +1065,11 @@
         <mxCell id="OI2-MrHW9RFHr7mxw6ZL-3" value="Producto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="R7eq6c7RX9BafvpeX78H-1" vertex="1">
           <mxGeometry x="133" y="225" width="207" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="OI2-MrHW9RFHr7mxw6ZL-4" value="GARRA TIP 58 " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="OI2-MrHW9RFHr7mxw6ZL-3" vertex="1">
-          <mxGeometry y="26" width="207" height="26" as="geometry" />
-        </mxCell>
+        <UserObject label="GARRA TIP 58 " link="data:page/id,HjstkvXey1lv5Y4CraNw" id="OI2-MrHW9RFHr7mxw6ZL-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="OI2-MrHW9RFHr7mxw6ZL-3" vertex="1">
+            <mxGeometry y="26" width="207" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="OI2-MrHW9RFHr7mxw6ZL-6" value="Cantidad" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="R7eq6c7RX9BafvpeX78H-1" vertex="1">
           <mxGeometry x="340" y="225" width="70" height="52" as="geometry" />
         </mxCell>

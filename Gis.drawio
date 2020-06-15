@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T02:02:06.289Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="rPWeu2ojLW36k5Zvz_NU" version="13.2.4" type="github" pages="2"><diagram id="c6oJV1lJlxx9KPndTJjn" name="Page-1">jZPfk5MwEMf/Gh7tlOAofezhFX+cejPVUR9zJIVoyMawbcG/3g0kB0zHGXkI2c9ustnNN0lWtH3puG0+gpA6YVvRJ9mbhLGc5TR6MEzg5Y5NoHZKTCidwVH9kQFuAz0rIbtVIAJoVHYNKzBGVrhi3Dm4rsNOoNdZLa/lDThWXN/Sb0pgE8t6PfO3UtVNzJy+2k2elsfgUEnXcAHXBcruk6xwADjN2r6Q2vcu9mVad/iH9/lgThr8nwWX33m+K4cP3+2Pr19+dtviM3//Iuxy4focCg6HxSF2gM5t/VS1Y6vuGmw1mSlNL9Khol7ttaoNMQS7oA/8SepH6BQq8N4nQISWArR33PHqV+3gbEQBGtyYKzuNH4WMyfadna50S4RH46R6KWII2Q2i18LeV84OlTBso0gNJ2WEdJuKMrKD4Mjp53kX/5obUVtvPn4qaUxZ3qderofy3ZHGBz5I122sqW87HdtGlcp+gULnSwmtRDdQSL+W87A2r7Ok0vhSmqWcIuRBxvXzzvNN0yRcdjRnUY2+xcvM7v8C</diagram><diagram id="yWmmMeBK83jpTaSedxE8" name="NDVI">3Vffb9s4DP5rDHQPCWLJjpPHOFl6Bbbc0AI73L0EikU7usqWJ8mN07/+KP9KvRTYBqz30CCQqY8KJZIfKcej67y+1aw8flYcpEdmvPboxiNkQRY4OuDcAsGStECmBW8h/wI8iGfowFmHVoKDGS20SkkryjGYqKKAxI4wprU6jZelSo53LVkGV8BDwuQ1+pfg9ti7FV3wP0Bkx35nf75sNTnrF3eemCPj6vQCoh89utZK2VbK6zVIF7s+LtGdSHf+/p9IU6VO9M81W/49aY1tf+UngwsaCvt7TXe5fGKy6uLlkbnETWJTssI5bc9dJOffKudpnCiptEdXqNTZgd3grvhd4/iqNF1EH9yMxk32CjtJWS7kubWAZlleNkpKA3wyLZi8Qgdz7WhYYSYGtEjHlk3DPmeXBGU96CzUdsKkyIpWKSG1g/LAksdMq6rgk7FnNyQMhx2/kz9cwoFS1jzX1FtsCi4ScNXihifIwLJEOFVMix7mIgXMZCIYTgqlczzaM+OsjzymsA1+Z7gl35AH4txB/GhziYDvgtb6tkmQH4AexE+grcAaWHWKXHDufh5rwBixQ2PKBaBUorBNhYWxF26crcqqNo6N6Z+kXkdRty/ULwqvo+ItqBysPuOSetweuq7S19jpUqJhjx1flGePsa4rZIPhC/NR6Mj/C4VAXymE7+KO9V86UeRNyxmC/IkdQH7BoFmhXLAPylqV4wLpFPHAr3VLLzRF0+bzSqKscrRnpmxbYSpqwFPHzZarHp31CMpHa10jXTnvyfZ0Ok2TShtlLEjgYCFJ8FDTBM+D2hIpjgzBTJJtVUrFuEGJzHxseVuXkW3Bn8T+WwV7MP60LLI3ZEAwH1Ng+bMUiOgbcSB4FxxoUDNNbMqMAWumBbh8ZyoMDv/y54POBE6D46H6/LjbfWLA5ub2wbDq8XxCRcSixZIDAE+S1AcI54Ryyn1/ERwivwnxF1EHm/0G8OCq2FcGEmZgv9t8vXtjypAfMibwl9eMCchiOpu/EWnCK9JssaVXkrUXiYtKc9egZnazu7uf3APH62PrZI/E7exddvhwlKzQv0oW+V87fHSVqJgVHLfBFwIUDLNdxjAvdBW2d/29K71V8D4zRMLZj1LkR78nRTi9vCg3uhf/NujH/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-15T02:03:26.105Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="szXvF312z5BCe3ARXnGH" version="13.2.4" type="github" pages="2">
+  <diagram id="c6oJV1lJlxx9KPndTJjn" name="Page-1">
+    <mxGraphModel dx="828" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vq889GyKXpYUTjs0COaJ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/iconslandgps/PNG/128x128/GIS/Layers.png" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="128" height="128" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yWmmMeBK83jpTaSedxE8" name="NDVI">
+    <mxGraphModel dx="828" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7IifN1_Z7r3oow3OCa9Y-0" />
+        <mxCell id="7IifN1_Z7r3oow3OCa9Y-1" parent="7IifN1_Z7r3oow3OCa9Y-0" />
+        <mxCell id="7IifN1_Z7r3oow3OCa9Y-2" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.87) ; font-family: &amp;#34;arial&amp;#34; , , sans-serif ; font-size: 24px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Índice de vegetación de diferencia normalizada&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="7IifN1_Z7r3oow3OCa9Y-1" vertex="1">
+          <mxGeometry x="10" y="20" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7IifN1_Z7r3oow3OCa9Y-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.cursosteledeteccion.com/wp-content/uploads/2019/10/ndvi_que_es1.png;" parent="7IifN1_Z7r3oow3OCa9Y-1" vertex="1">
+          <mxGeometry x="450" y="90" width="361.9" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7IifN1_Z7r3oow3OCa9Y-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.ctfassets.net/go54bjdzbrgi/4hbuMkNNLaea6sGSsaukyw/7a789deeedccf1ee5623d3d1184b7122/Pix4D_Deveron_usecase_NDVI.png;" parent="7IifN1_Z7r3oow3OCa9Y-1" vertex="1">
+          <mxGeometry x="20" y="90" width="419" height="428.06" as="geometry" />
+        </mxCell>
+        <mxCell id="7IifN1_Z7r3oow3OCa9Y-5" value="Formula: NDVI = (NIR-Red)/(NIR+Red)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="7IifN1_Z7r3oow3OCa9Y-1" vertex="1">
+          <mxGeometry x="15" y="51" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7IifN1_Z7r3oow3OCa9Y-7" value="Bandas landsat: NIR:5, Red:4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="7IifN1_Z7r3oow3OCa9Y-1" vertex="1">
+          <mxGeometry x="250" y="51" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MIdV5UYUBZviqiHACyQS-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://eos.com/wp-content/themes/eos/images/make-an-analyses/ndvi/ndvi_sp.jpg;" vertex="1" parent="7IifN1_Z7r3oow3OCa9Y-1">
+          <mxGeometry x="450" y="300" width="380" height="208.27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

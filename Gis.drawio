@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T02:13:33.040Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="dah80hGiGzFvmm7xOvBl" version="13.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-15T02:17:01.402Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="CFN1rY9ZWbsgkO5mauPC" version="13.2.4" type="github" pages="3">
   <diagram id="c6oJV1lJlxx9KPndTJjn" name="Gis">
     <mxGraphModel dx="828" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="cmLZ_VML1wn7hY4zESMu-1" value="&lt;p style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium ; margin: 0px&quot;&gt;GDAL&lt;/p&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium ; margin: 0px&quot;&gt;GRASS LIBRARY&lt;/p&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium ; margin: 0px&quot;&gt;BANDAS&lt;/p&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium ; margin: 0px&quot;&gt;    Nir y rojo&lt;/p&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium ; margin: 0px&quot;&gt;    Re y rojo&lt;/p&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; font-size: medium ; margin: 0px&quot;&gt;GEODJANGO&lt;/p&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNqj5mlycb1SwO-Mf_I-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://metrohm.blog/wp-content/uploads/2020/02/Electromagnetic-Spectrum.jpg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="520" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

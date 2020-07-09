@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-09T15:35:41.898Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="qhwZbPVUvHM05WXodfeq" version="13.3.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-09T15:53:33.520Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="J2841eJW7hMTrCFQ5tTg" version="13.3.9" type="github">
   <diagram id="J36BQQnPg78suODzzUQr" name="Page-1">
     <mxGraphModel dx="1062" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-111" value="t75_notificaciones" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="290" width="180" height="220" as="geometry" />
+          <mxGeometry x="180" y="290" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-112" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-111">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -70,8 +70,17 @@
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-209" value="estado" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-207">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-228" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-111">
+          <mxGeometry y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-229" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-228">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-230" value="variables" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-228">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-189" value="t75_componentes" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="180" height="190" as="geometry" />
+          <mxGeometry x="440" y="290" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-190" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-189">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -118,10 +127,19 @@
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-204" value="atributos" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-202">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-234" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-189">
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-235" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-234">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-236" value="código" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="LYrSy0yfMRbzxB3Prvpc-234">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-214" value="Estado: &lt;br&gt;Por disparar: 0&lt;br&gt;Disparada: 1&lt;br&gt;Deshabilitada: 2." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
           <mxGeometry x="10" y="210" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LYrSy0yfMRbzxB3Prvpc-215" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="LYrSy0yfMRbzxB3Prvpc-214" source="LYrSy0yfMRbzxB3Prvpc-207">
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-215" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="LYrSy0yfMRbzxB3Prvpc-214" source="LYrSy0yfMRbzxB3Prvpc-207">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-20" y="375" as="sourcePoint" />
             <mxPoint x="130" y="480" as="targetPoint" />
@@ -142,14 +160,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LYrSy0yfMRbzxB3Prvpc-218" value="Ej: [&quot;NOMBRE&quot;, &quot;EDAD&quot;, &lt;br&gt;&quot;CONDICION&quot;]" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-218" value="Ej: &#39;[&quot;NOMBRE&quot;, &quot;EDAD&quot;, &lt;br&gt;&quot;CONDICION&quot;]&#39;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="854" y="503" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-220" value="Cuerpo:&lt;br&gt;Contenido del la notificación, con las variables a reemplazar." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
           <mxGeometry x="850" y="200" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LYrSy0yfMRbzxB3Prvpc-221" value="Ej: &quot;Bienvenido {NOMBRE}, &lt;br&gt;su edad es {EDAD} y su &lt;br&gt;condición es de &lt;br&gt;{CONDICION}&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="310" width="160" height="60" as="geometry" />
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-221" value="Ej: &#39;Bienvenido {NOMBRE}, &lt;br&gt;su edad es {EDAD} y su &lt;br&gt;condición es de &lt;br&gt;{CONDICION} su récord es de &lt;br&gt;[{TABLA_REC}]&#39;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="849" y="305" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-222" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LYrSy0yfMRbzxB3Prvpc-196" target="LYrSy0yfMRbzxB3Prvpc-220">
           <mxGeometry relative="1" as="geometry">
@@ -178,6 +196,57 @@
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-226" value="Ej: &quot;Select nombre, edad, &lt;br&gt;condicion from tabla where &lt;br&gt;id_registro =&lt;br&gt;{ID_DOCUMENTO} and&lt;br&gt;estado =&#39;{ESTADO_DOC}&#39;&lt;br&gt;&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="697" y="502" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-231" value="Variables:&lt;br&gt;Objeto Json con nombre de las variables a reemplazar en las sentencias sql de los componentes." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="585" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-232" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="LYrSy0yfMRbzxB3Prvpc-231" source="LYrSy0yfMRbzxB3Prvpc-228">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="725" as="sourcePoint" />
+            <mxPoint x="130" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="515" />
+              <mxPoint x="140" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-233" value="Ej: &#39;{&quot;ID_DOCUMENTO&quot;:234,&lt;br&gt;&amp;nbsp;&quot;ESTADO_DOC&quot;:&quot;S&quot;}&#39;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="700" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-237" value="Código:&lt;br&gt;identificador único de componente para hacer enlace en el reemplazo de variables." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="582" y="620" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-238" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="LYrSy0yfMRbzxB3Prvpc-237" source="LYrSy0yfMRbzxB3Prvpc-234">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348" y="685" as="sourcePoint" />
+            <mxPoint x="363" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="600" />
+              <mxPoint x="550" y="600" />
+              <mxPoint x="550" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-239" value="Ej: &#39;TABLA_REC&#39;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="582" y="731" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-240" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LYrSy0yfMRbzxB3Prvpc-115" target="LYrSy0yfMRbzxB3Prvpc-190">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="370" y="660" as="sourcePoint" />
+            <mxPoint x="470" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-241" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LYrSy0yfMRbzxB3Prvpc-118" target="LYrSy0yfMRbzxB3Prvpc-190">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="370" y="375" as="sourcePoint" />
+            <mxPoint x="450" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYrSy0yfMRbzxB3Prvpc-242" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LYrSy0yfMRbzxB3Prvpc-121" target="LYrSy0yfMRbzxB3Prvpc-190">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="380" y="385" as="sourcePoint" />
+            <mxPoint x="460" y="355" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

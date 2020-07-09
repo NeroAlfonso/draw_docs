@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-09T16:43:30.624Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="0jYtqjnPdc2_QgTTdggb" version="13.3.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-09T16:44:31.840Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="jI_DxQD4qvJWgWx1hyA_" version="13.3.9" type="github">
   <diagram id="J36BQQnPg78suODzzUQr" name="Page-1">
     <mxGraphModel dx="1062" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
           <mxGeometry x="697" y="502" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-231" value="Variables:&lt;br&gt;Objeto Json con nombre de las variables a reemplazar en las sentencias sql de los componentes." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
-          <mxGeometry x="30" y="170" width="130" height="110" as="geometry" />
+          <mxGeometry x="20" y="140" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-232" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=130;entryDy=65;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="LYrSy0yfMRbzxB3Prvpc-231" source="LYrSy0yfMRbzxB3Prvpc-262">
           <mxGeometry relative="1" as="geometry">
@@ -179,7 +179,7 @@
             <mxPoint x="130" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="145" />
-              <mxPoint x="320" y="235" />
+              <mxPoint x="320" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -232,7 +232,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-233" value="Ej: &#39;{&quot;ID_DOCUMENTO&quot;:234,&lt;br&gt;&amp;nbsp;&quot;ESTADO_DOC&quot;:&quot;S&quot;}&#39;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="178" y="700" width="170" height="30" as="geometry" />
+          <mxGeometry x="20" y="250" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LYrSy0yfMRbzxB3Prvpc-237" value="Código:&lt;br&gt;identificador único de componente para hacer enlace en el reemplazo de variables." style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
           <mxGeometry x="582" y="620" width="140" height="110" as="geometry" />

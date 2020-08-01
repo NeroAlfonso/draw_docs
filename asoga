@@ -1,31 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T14:27:36.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="XCxaCgss9p8FIQkZsPR5" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-01T14:46:14.751Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="sdLVGJHuHmWd9a7WeBeG" version="13.5.8" type="github">
   <diagram id="mT_ouIGTtMFES5j5vTfx" name="Page-1">
-    <mxGraphModel dx="1249" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2608" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#878787;fillColor=none;gradientColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="513.5" y="792.3199999999999" width="400" height="567.5" as="geometry" />
-        </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/japan-flat-2/340/farm_rice_field_agriculture_plant_harvest_food-128.png" vertex="1" parent="1">
-          <mxGeometry x="543" y="832.8799999999999" width="59.72" height="59.72" as="geometry" />
+          <mxGeometry x="-740" y="444.41999999999985" width="59.72" height="59.72" as="geometry" />
         </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/smart-farm-line-agriculture-technology/512/Smart_drone-128.png" vertex="1" parent="1">
-          <mxGeometry x="533.5" y="1013.0999999999999" width="100" height="100" as="geometry" />
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-5" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Parámetros y recomendaciones&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Cultivo, campo, Crecimiento, anomalías, condición, agentes negativos, positivos, entre otros muchos parámetros de libre definición.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-647.78" y="404.1399999999999" width="263.6" height="127.22" as="geometry" />
         </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-4" value="Photo" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.photo;" vertex="1" parent="1">
-          <mxGeometry x="543.5" y="1145.1" width="80" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-5" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Parámetros y recomendaciones&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Cultivo, campo, Crecimiento, anomalías, condición, agentes negativos, positivo, entre otros muchos parámetros de libre definición. Adjuntos a informes, áreas madre o sub-áreas. Constan de varios tipos de entrada.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="635.22" y="792.5999999999999" width="263.6" height="127.22" as="geometry" />
-        </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-6" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Imágenes aéreas&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Recoge información de otros dispositivos como drones, para una recolección de datos mas completa. Permite la asociacion a parametros y datos recogidos.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="633.4999999999999" y="1012.0999999999999" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Imágenes detalladas&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Recoge información desde el dispositivo móvil, asociándolo a notas o parámetros recogidos en la visita a la parcela. Las imágenes están localizadas en el punto donde se tomaron.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="633.5" y="1123.6" width="240" height="131.72" as="geometry" />
-        </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Registro de áreas&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Registra la definición de zonas de terreno con GPS, recorriendo el campo o bordeándolo directamente desde el mapa. Descripciones e imágenes opcionales.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Un área puede representar una finca, lote, o zona de interés en el mapa, teniendo una relación directa con su padre. Ej: lote hijo de finca, o zona de interés hija de lote.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Registro de áreas (Poligonos)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Registra la definición de zonas de terreno con GPS, recorriendo el campo o bordeándolo directamente desde el mapa. Descripciones e imágenes opcionales.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Un área puede representar una finca, lote, o zona de interés en el mapa, teniendo una relación directa con su padre. Ej: lote hijo de finca, o zona de interés hija de lote.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="190" y="346.25" width="440" height="163.75" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fatcow/32/draw_polyline.png" vertex="1" parent="1">
@@ -44,43 +29,34 @@
           <mxGeometry x="66.21000000000004" y="1030.21" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519791-101_Warning-128.png" vertex="1" parent="1">
-          <mxGeometry x="534.9" y="918.0999999999999" width="98" height="98" as="geometry" />
+          <mxGeometry x="-740.32" y="502.1299999999999" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-18" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Seguimiento de parámetros&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Indica los parámetros a los que quieres hacer seguimiento y que se notifiquen en cada visita al campo.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="635.22" y="914.0999999999999" width="240" height="110" as="geometry" />
+          <mxGeometry x="-640" y="498.1299999999999" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/viiva-business/32/signature-128.png;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;imageBackground=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="538.54" y="1246.1" width="108" height="108" as="geometry" />
+          <mxGeometry x="-733.8" y="873.9999999999999" width="108" height="108" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-20" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Verificación de informes&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;El operador puede escanear la credencial QR del productor en cuestión para verificar que fue revisada la información que levanto en campo.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="635.22" y="1242.1" width="240" height="126" as="geometry" />
+          <mxGeometry x="-637.1199999999999" y="869.9999999999999" width="240" height="126" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/qr_code-128.png;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="543" y="1277.1" width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-22" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#878787;strokeWidth=4;exitX=1.01;exitY=0.436;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5nfvtrUC6LbuLcF_uno0-1" target="5nfvtrUC6LbuLcF_uno0-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="923.5" y="1009.8199999999999" as="sourcePoint" />
-            <mxPoint x="963.5" y="1072.82" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-729.3399999999999" y="904.9999999999999" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flatified/128/news.png;dashed=1;strokeColor=#878787;strokeWidth=4;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="978.5" y="1015.0999999999999" width="111.72" height="111.72" as="geometry" />
+          <mxGeometry x="-621.3199999999999" y="689.9999999999999" width="111.72" height="111.72" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-24" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Informe técnico&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Conjunto de parámetros generalmente asociados a un área madre.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="942.36" y="1104.6" width="184" height="110" as="geometry" />
+          <mxGeometry x="-657.46" y="779.4999999999999" width="184" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_eco_friendly-128.png" vertex="1" parent="1">
-          <mxGeometry x="570.44" y="827.54" width="64.78" height="64.78" as="geometry" />
+          <mxGeometry x="-712.56" y="439.0799999999999" width="64.78" height="64.78" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-26" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Condicionamiento geográfico&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Permite o no al operador realizar operaciones en función de su posición actual. Esta condición puede funcionar discriminando por áreas asignadas (productor, parcela, entre otros) o zonas definidas arbitrariamente.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="166.21000000000004" y="1020.21" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/geosm-e-commerce/48/lock-128.png" vertex="1" parent="1">
           <mxGeometry x="66.21000000000004" y="1030.21" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/facebook-ui-flat/48/Facebook_UI-07-128.png;strokeColor=#171717;strokeWidth=1;fillColor=#ffffff;gradientColor=none;align=left;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1145.1" width="91" height="91" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-128.png" vertex="1" parent="1">
           <mxGeometry x="70.6" y="520.52" width="65.22" height="65.22" as="geometry" />
@@ -91,7 +67,7 @@
         <mxCell id="5nfvtrUC6LbuLcF_uno0-31" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Registro de lineas&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Registra una serie de coordenadas secuenciales, que forman una linea. Esta puede representar un cauce, río, falla o cualquier elemento del mundo real que pueda ser representado por esta forma. Puede estar dentro o fuera de cualquiera de las estructuras.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Registro por medio de GPS y marcado manual.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="189.5" y="629" width="440" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="5nfvtrUC6LbuLcF_uno0-34" value="&lt;h1&gt;Estructuras base&lt;/h1&gt;&lt;p&gt;Representan las formas, lineas o puntos que delimitaran y representaran, zonas o elementos del mundo real y a partir de las cuales se realizaran los distintos estudios o funcionaran como referencia en el campo.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-34" value="&lt;h1&gt;Estructuras geográficas&lt;/h1&gt;&lt;p&gt;Representan las formas, lineas o puntos que delimitaran y representaran, zonas o elementos del mundo real y a partir de las cuales se realizaran los distintos estudios o funcionaran como referencia en el campo.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="242" width="560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgMap;strokeColor=#18211b;strokeColor2=#008cff;fillColor2=#96D1FF;" vertex="1" parent="1">
@@ -212,19 +188,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-78" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="330" y="355.26" width="25" height="26.21" as="geometry" />
+          <mxGeometry x="400" y="355.26" width="25" height="26.21" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-79" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="370" y="355.26" width="25" height="26.21" as="geometry" />
+          <mxGeometry x="440" y="355.26" width="25" height="26.21" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-80" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="408.21" y="355.26" width="25" height="26.21" as="geometry" />
+          <mxGeometry x="478.21" y="355.26" width="25" height="26.21" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-81" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-128.png" vertex="1" parent="1">
           <mxGeometry x="330" y="520.52" width="23.75" height="23.75" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-82" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/polyline.png;fontColor=#6600CC;direction=south;" vertex="1" parent="1">
           <mxGeometry x="322.75" y="640" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-83" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;opacity=50;fillColor=#000000;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="347.49" width="170" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-84" value="&lt;h1&gt;Estructuras&lt;/h1&gt;&lt;p&gt;Definen la naturaleza de una estructura geográfica. Puede definir un polígono como un lote, un punto como una vivienda o una linea como un rio.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="242" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-85" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Finca (Polígono)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Extensión de terreno que generalmente contiene sub divisiones llamadas lotes.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-290.5" y="345.5" width="310.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-86" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Lote (Polígono)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Extensión de terreno que representa una subdivisión de una finca o extensión de terreno mayor.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-290.5" y="425.5" width="310.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-87" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Afectación (Polígono)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Extensión de terreno que representa un área&amp;nbsp;afectada por malezas y/o plagas u otros, esta contenida en un lote.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-290.5" y="500" width="310.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-88" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Cauce (Linea)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Linea que representa un cauce.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-290.5" y="592.73" width="310.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-89" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Vivienda (Punto)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Representa un casa.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-290.5" y="651.5" width="310.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-90" value="&lt;h1&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Otros (...)&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Se pueden hacer infinitas definiciones siempre que estén representadas por una estructura geográfica.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-290.5" y="710" width="310.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;opacity=50;fillColor=#000000;size=0.5;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-657.46" y="428.08000000000004" width="170" height="373.64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

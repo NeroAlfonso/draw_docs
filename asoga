@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T14:23:51.006Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="wsKvM_H_3P8Dws8xjMiJ" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-01T14:27:36.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="XCxaCgss9p8FIQkZsPR5" version="13.5.8" type="github">
   <diagram id="mT_ouIGTtMFES5j5vTfx" name="Page-1">
     <mxGraphModel dx="1249" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,6 +210,21 @@
             <mxPoint x="1376" y="307" as="sourcePoint" />
             <mxPoint x="859.7706898475003" y="483.4449999999997" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-78" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="355.26" width="25" height="26.21" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-79" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="355.26" width="25" height="26.21" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-80" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="408.21" y="355.26" width="25" height="26.21" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-81" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="520.52" width="23.75" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-82" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/polyline.png;fontColor=#6600CC;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="322.75" y="640" width="31" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

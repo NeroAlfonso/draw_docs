@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T14:59:02.167Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="ioN6atnKwir12X0Lgzl2" version="13.5.8" type="github">
-  <diagram id="mT_ouIGTtMFES5j5vTfx" name="Page-1">
-    <mxGraphModel dx="1937" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-08-01T15:04:10.353Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="6LpI_mp_8ia6KVt_iLMd" version="13.5.8" type="github" pages="2">
+  <diagram id="mT_ouIGTtMFES5j5vTfx" name="Aplicación">
+    <mxGraphModel dx="2164" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,6 +262,23 @@
         <mxCell id="5nfvtrUC6LbuLcF_uno0-116" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Bitácora geográfica&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Las operaciones del técnico tendrán una marca geográfica, para saber en donde hizo cada operación.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="620" y="1100" width="170" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="hs_GLoBeskfSd0MzQFaI-1" value="Photo" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.photo;" vertex="1" parent="1">
+          <mxGeometry x="-396.5" y="141.49999999999997" width="80" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hs_GLoBeskfSd0MzQFaI-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Imágenes detalladas&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Recoge información desde el dispositivo móvil, asociándolo a notas o parámetros recogidos en la visita a la parcela. Las imágenes están localizadas en el punto donde se tomaron.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;horizontal=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-306.5" y="119.99999999999997" width="240" height="131.72" as="geometry" />
+        </mxCell>
+        <mxCell id="hs_GLoBeskfSd0MzQFaI-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/facebook-ui-flat/48/Facebook_UI-07-128.png;strokeColor=#171717;strokeWidth=1;fillColor=#ffffff;gradientColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="141.49999999999997" width="91" height="91" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZobzJLoCxyP-8xUSXP3E" name="Cliente online">
+    <mxGraphModel dx="1110" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="46qK62RxdxY28L84Jl6V-0" />
+        <mxCell id="46qK62RxdxY28L84Jl6V-1" parent="46qK62RxdxY28L84Jl6V-0" />
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T14:51:19.171Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="H7xy1s_5Bkndt3hdye8y" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-01T14:52:11.120Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="_idxPHRbRv_cb8DlrAHj" version="13.5.8" type="github">
   <diagram id="mT_ouIGTtMFES5j5vTfx" name="Page-1">
-    <mxGraphModel dx="2608" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2326" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
           <mxGeometry x="690" y="790" width="560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-93" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgMap;strokeColor=#18211b;strokeColor2=#008cff;fillColor2=#96D1FF;" vertex="1" parent="1">
-          <mxGeometry x="678.28" y="905" width="590" height="518" as="geometry" />
+          <mxGeometry x="690" y="902.73" width="588.28" height="443" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-94" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="704.4" y="1114.69" width="165.35" height="101.74" as="geometry" />
@@ -248,10 +248,10 @@
           <mxGeometry x="1158.28" y="1283" width="98.28" height="44.26" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-128.png" vertex="1" parent="1">
-          <mxGeometry x="800.3299999999999" y="1303" width="42.73" height="42.73" as="geometry" />
+          <mxGeometry x="789.9999999999999" y="1284.53" width="42.73" height="42.73" as="geometry" />
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-128.png" vertex="1" parent="1">
-          <mxGeometry x="1207.2799999999997" y="1363" width="42.73" height="42.73" as="geometry" />
+          <mxGeometry x="1207.2699999999998" y="1147.41" width="42.73" height="42.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

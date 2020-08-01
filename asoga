@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T14:47:13.309Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="VzdkmLpLWK-Fzjk-_Tji" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-01T14:51:19.171Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53" etag="H7xy1s_5Bkndt3hdye8y" version="13.5.8" type="github">
   <diagram id="mT_ouIGTtMFES5j5vTfx" name="Page-1">
     <mxGraphModel dx="2608" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,6 +228,30 @@
         </mxCell>
         <mxCell id="5nfvtrUC6LbuLcF_uno0-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;opacity=50;fillColor=#000000;size=0.5;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-657.46" y="428.08000000000004" width="170" height="373.64" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-92" value="&lt;h1&gt;Navegación&lt;/h1&gt;&lt;p&gt;El técnico recorrerá el campo y en tiempo real podrá ver las estructuras geográficas definidas por el dentro y fuera de sus rutas asignadas o las estructuras de otros técnicos que no pertenezcas a una ruta. Ej: viviendas o puntos de referencia.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="790" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-93" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgMap;strokeColor=#18211b;strokeColor2=#008cff;fillColor2=#96D1FF;" vertex="1" parent="1">
+          <mxGeometry x="678.28" y="905" width="590" height="518" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-94" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="704.4" y="1114.69" width="165.35" height="101.74" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-96" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="712.11" y="1151.23" width="51.72" height="45.24" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-101" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="768.28" y="1120.1399999999999" width="74.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-102" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1158.28" y="1283" width="98.28" height="44.26" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-128.png" vertex="1" parent="1">
+          <mxGeometry x="800.3299999999999" y="1303" width="42.73" height="42.73" as="geometry" />
+        </mxCell>
+        <mxCell id="5nfvtrUC6LbuLcF_uno0-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-128.png" vertex="1" parent="1">
+          <mxGeometry x="1207.2799999999997" y="1363" width="42.73" height="42.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
